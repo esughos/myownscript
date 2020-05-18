@@ -1,3 +1,2 @@
 #!/bin/bash
-df -kh 
-echo "Suman Script"
+echo "Hello Jenkins from GitHub!!"
